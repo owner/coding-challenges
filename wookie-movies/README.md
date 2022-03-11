@@ -11,6 +11,7 @@ You are the owner of a movie theater in **Thikkiiana City,** on the Wookiee home
 - Implement assignment using:
   - Language: **Javascript or TypeScript**
   - Framework: **React, Vue, or Angular**
+- Show us your work through your commit history
 - Build out the project using the mocks in the `/Designs` folder as a reference. Feel free to take some creative liberty here.
 - Connect your application to this **Movie Database**: `https://wookie.codesubmit.io/movies`
 - For authentication pass the `"Authorization: Bearer Wookie2021"` header
@@ -36,4 +37,4 @@ Please create a private Github repository and share access with dbloembe.
 
 All the best and happy coding,
 
-The Owner! Team
+The Owner Team!
